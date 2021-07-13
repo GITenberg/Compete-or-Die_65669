@@ -1,5 +1,8 @@
 _repo: Compete-or-Die_65669
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65669-h/images/cover.jpg
 creator:
   author:
     agent_name: Reinsberg, Mark
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53200'
     url: http://www.gutenberg.org/2009/agents/53200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65669#Compete-or-Die
 gutenberg_issued: '2021-06-22'
 gutenberg_type: Text
 identifiers:
